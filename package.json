@@ -1,0 +1,29 @@
+{
+  "name": "bpmn-js-data_association_data_input_output",
+  "version": "1.0.0",
+  "description": "BPMN-JS plugin to allow to use data inputs or data outputs for data association connections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bundle": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElCondor1969/bpmn-js-data_association_data_input_output.git"
+  },
+  "keywords": [],
+  "author": "Sergio Rossi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElCondor1969/bpmn-js-data_association_data_input_output/issues"
+  },
+  "homepage": "https://github.com/ElCondor1969/bpmn-js-data_association_data_input_output#readme",
+  "dependencies": {
+    "bpmn-js": "*",
+    "diagram-js": "*"
+  },
+  "devDependencies": {
+    "webpack": "*",
+    "webpack-cli": "*"
+  }
+}
