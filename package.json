@@ -1,5 +1,5 @@
 {
-  "name": "bpmn-js-data_association_data_input_output",
+  "name": "bpmn-js-data-association-data-input-output",
   "version": "1.0.0",
   "description": "BPMN-JS plugin to allow to use data inputs or data outputs for data association connections",
   "main": "index.js",
